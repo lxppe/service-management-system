@@ -24,3 +24,7 @@ python main.py
 
 ![Tela inicial](prints/main.png)
 
+![Tela de cadastro](prints/cadastro.png)
+
+![Tela de detalhes](prints/detalhes.png)
+
