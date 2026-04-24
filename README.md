@@ -21,5 +21,5 @@ python main.py
 ```
 
 ```md
-![Tela inicial](prints/main.png)
+![Tela inicial] prints/main.png
 
