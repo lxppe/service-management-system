@@ -16,10 +16,10 @@ Sistema desenvolvido para gerenciar ordens de serviço, clientes e status.
 
 ## 📦 Instalação
 
-git clone https://github.com/lxppe/service-management-system
-cd service-management-system
-pip install -r requirements.txt
-python main.py
+- git clone https://github.com/lxppe/service-management-system
+- cd service-management-system
+- pip install -r requirements.txt
+- python main.py
 
 ## ▶️ Como rodar
 ```bash
