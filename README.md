@@ -20,6 +20,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-```md
-![Tela inicial] prints/main.png
+## 📷 Preview
+
+![Tela inicial](prints/main.png)
 
