@@ -27,7 +27,7 @@ git clone https://github.com/lxppe/service-management-system
 cd service-management-system
 pip install -r requirements.txt
 
-## ▶️ Como rodar
+▶️ Como rodar
 python main.py
 ```
 ## 📷 Preview
