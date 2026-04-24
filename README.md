@@ -3,29 +3,32 @@
 ## 📌 Sobre
 Sistema desenvolvido para gerenciar ordens de serviço, clientes e status.
 
+---
+
 ## 🚀 Funcionalidades
 - Cadastro de clientes
 - Criação de ordens de serviço
 - Visualização de detalhes
 - Atualização de status
 
+---
+
 ## 🛠️ Tecnologias
 - Python
 - CustomTkinter
 - SQLite
 
+---
+
 ## 📦 Instalação
 
-- git clone https://github.com/lxppe/service-management-system
-- cd service-management-system
-- pip install -r requirements.txt
-- python main.py
+```bash
+git clone https://github.com/lxppe/service-management-system
+cd service-management-system
+pip install -r requirements.txt
 
 ## ▶️ Como rodar
-```bash
-pip install -r requirements.txt
 python main.py
-```
 
 ## 📷 Preview
 
