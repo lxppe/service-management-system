@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 ## ▶️ Como rodar
 python main.py
-
+```
 ## 📷 Preview
 
 ![Tela inicial](prints/main.png)
