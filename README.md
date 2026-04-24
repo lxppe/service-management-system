@@ -18,7 +18,8 @@ Sistema desenvolvido para gerenciar ordens de serviço, clientes e status.
 ```bash
 pip install -r requirements.txt
 python main.py
-
+```
 
 ```md
 ![Tela inicial](prints/main.png)
+
